@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1624623804617,
+  "index": "https://intvalentin.github.io/Roundc/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://intvalentin.github.io/Roundc/favicon.ico",
+        "https://intvalentin.github.io/Roundc/index.html",
+        "https://intvalentin.github.io/Roundc/main.e15a5744bef7cd1158ad.js",
+        "https://intvalentin.github.io/Roundc/manifest.webmanifest",
+        "https://intvalentin.github.io/Roundc/polyfills.94daefd414b8355106ab.js",
+        "https://intvalentin.github.io/Roundc/runtime.7b63b9fd40098a2e8207.js",
+        "https://intvalentin.github.io/Roundc/styles.676684ba9b5bbb527cba.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://intvalentin.github.io/Roundc/assets/font.ttf",
+        "https://intvalentin.github.io/Roundc/assets/hover-me.jpg",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-128x128.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-144x144.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-152x152.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-192x192.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-384x384.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-512x512.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-72x72.png",
+        "https://intvalentin.github.io/Roundc/assets/icons/icon-96x96.png",
+        "https://intvalentin.github.io/Roundc/assets/search.json",
+        "https://intvalentin.github.io/Roundc/assets/themes.json",
+        "https://intvalentin.github.io/Roundc/font.6208e6316eed6b9e1de0.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://intvalentin.github.io/Roundc/assets/font.ttf": "4a1fc0d6f7607f9595d9f3b1b89abbd342c7c25b",
+    "https://intvalentin.github.io/Roundc/assets/hover-me.jpg": "608b3ff37c3a76f4ad0d9f97e861c73b7df0bf27",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://intvalentin.github.io/Roundc/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://intvalentin.github.io/Roundc/assets/search.json": "aaf9abc2113829a6a5011cc5fdc156b15f39ecd5",
+    "https://intvalentin.github.io/Roundc/assets/themes.json": "1f627c618447f385f97ce05175b070e4d2042304",
+    "https://intvalentin.github.io/Roundc/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://intvalentin.github.io/Roundc/font.6208e6316eed6b9e1de0.ttf": "4a1fc0d6f7607f9595d9f3b1b89abbd342c7c25b",
+    "https://intvalentin.github.io/Roundc/index.html": "4be408785670eff46369b34b339c9a9e4c1e16ea",
+    "https://intvalentin.github.io/Roundc/main.e15a5744bef7cd1158ad.js": "dec2591d8546646d030bb8ad444d8619cd930a82",
+    "https://intvalentin.github.io/Roundc/manifest.webmanifest": "a5f568897d3f8f4760e5eea1d55eda4f8da7e34e",
+    "https://intvalentin.github.io/Roundc/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "https://intvalentin.github.io/Roundc/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://intvalentin.github.io/Roundc/styles.676684ba9b5bbb527cba.css": "4bc8b06ce48e09a2f30960e739d39877467df331"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
